@@ -1,0 +1,10 @@
+.jupyter/
+.ipython/
+.ipynb_checkpoints/
+__pycache__/
+.cache/
+.config/
+logs.log
+.local/
+.docker/
+.keras/
